@@ -1,5 +1,10 @@
 # HealthSense AI
 
+![CI](https://github.com/KrishnaHarivindh/HealthSense-AI/actions/workflows/python-ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/KrishnaHarivindh/HealthSense-AI)
+![Last Commit](https://img.shields.io/github/last-commit/KrishnaHarivindh/HealthSense-AI)
+![Language](https://img.shields.io/github/languages/top/KrishnaHarivindh/HealthSense-AI)
+
 AI-assisted chest X-ray risk analysis platform built for local CPU execution, clinical metadata fusion, explainable predictions, and interactive medical imaging review.
 
 ## Overview
