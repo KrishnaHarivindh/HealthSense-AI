@@ -1,0 +1,11 @@
+tensorflow-cpu==2.15.0
+keras==2.15.0
+scikit-learn==1.8.0
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.10.8
+seaborn==0.13.2
+pillow==12.1.1
+streamlit==1.55.0
+scipy==1.17.1
+joblib==1.5.3
